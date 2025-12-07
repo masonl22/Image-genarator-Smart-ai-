@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Party Hat Generator",
+  "description": "Generate custom party hat images using Gemini 2.5 Flash Image. Create unique, festive designs instantly.",
+  "requestFramePermissions": []
+}
